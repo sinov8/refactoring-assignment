@@ -8,7 +8,11 @@ This is the Sinov8 Refactoring assignment which contain a couple of files each w
 3) Refactoring Skills
 4) Ability to spot obvious improvements and logic mistakes
 5) Ability to write good readible code by using proper function and variable names and by using the least amount of code neccesary to get the functionally desired output.
-6) NOTE - We will NOT be looking for technical mistakes such as referring to a method that doesn't exists in the PHP/Laravel environment.
+
+# What we are NOT checking:
+1) NOTE - Technical correctness or technical mistakes such as referring to a method that doesn't exists in the PHP/Laravel environment.
+
+This code is all Psuedo code and doesn't need to run. We are looking at style and logic.
 
 # Instructions
 * Please create a corresponding file for each test file in the PhpAnswersDirectory.
